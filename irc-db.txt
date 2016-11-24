@@ -1,0 +1,9 @@
+Ircnode irc.resecurity.net:6667
+{
+    #hackxcrack, spanish, Canal oficial de hackxcrack;
+}
+
+Freenode chat.freenode.net:6667
+{
+    #ircehn, spanish, Canal no oficial de elhacker.net;
+}
