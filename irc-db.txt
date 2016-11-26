@@ -6,4 +6,10 @@ Ircnode irc.resecurity.net:6697
 Freenode chat.freenode.net:6697
 {
     #ircehn, spanish, Canal no oficial de elhacker.net;
+    #debian-es, spanish, Canal sobre debian en Español;
+}
+
+Hira irc.hira.io:6697
+{
+    #underc0de, spanish, Canal oficial de underc0de;
 }
