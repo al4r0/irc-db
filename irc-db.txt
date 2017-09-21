@@ -14,3 +14,8 @@ Hira irc.hira.io:6697
 {
     #underc0de, spanish, Canal oficial de underc0de;
 }
+
+Mumei mumei.space:6697
+{
+    #entry-point, spanish, Lobby;
+}
