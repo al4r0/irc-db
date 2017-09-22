@@ -8,6 +8,7 @@ Freenode chat.freenode.net:6697
     #ircehn, spanish, Canal no oficial de elhacker.net;
     #debian-es, spanish, Canal sobre debian en Español;
     #r_hacking, english, Official reddit irc channel;
+    #gentoo-es, spanish, Canal sobre gentoo en Español;
 }
 
 Hira irc.hira.io:6697
